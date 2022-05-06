@@ -30,3 +30,5 @@ defaults:
     values:
       layout: "post"
 remote_theme: jekyll
+
+theme: jekyll-theme-cayman
